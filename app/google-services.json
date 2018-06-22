@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "108825265988",
+    "firebase_url": "https://simsapp-57f35.firebaseio.com",
+    "project_id": "simsapp-57f35",
+    "storage_bucket": "simsapp-57f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108825265988:android:01eed353c889e6ae",
+        "android_client_info": {
+          "package_name": "com.saslesh.simsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108825265988-1e39ec7vbhochfhra0noi1nusfr6baii.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "108825265988-1e39ec7vbhochfhra0noi1nusfr6baii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuDdtTots0UNaChTp0xM5QWZPwK59XpZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
